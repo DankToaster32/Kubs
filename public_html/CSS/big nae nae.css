@@ -3,7 +3,10 @@ body {
 background: linear-gradient(0deg, rgba(83,34,195,1) 
     0%, 
     rgba(253,187,45,1) 100%);
-font-family: Comic Sans MS;
+background-repeat: no-repeat;
+background-size: 100% auto;
+background-size: cover;
+font-family: "Comic Sans MS";
 
 }
 
