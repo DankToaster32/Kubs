@@ -83,3 +83,10 @@ a.hyperl:hover, a.hyperl:active {
     height: 50px;
 }
 
+.showcase {
+    align-content: center;
+    max-height: 460px;
+    max-width: 500px;
+    margin: auto;
+    padding: 10px 10px;
+}
