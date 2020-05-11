@@ -1,28 +1,63 @@
 body {
     background: rgb(83,34,195);
-background: linear-gradient(0deg, rgba(83,34,195,1) 
-    0%, 
+background: linear-gradient(0deg, rgba(83,34,195,1) 0%, 
     rgba(253,187,45,1) 100%);
 background-repeat: no-repeat;
 background-size: auto auto;
 background-size: cover;
 font-family: "Comic Sans MS";
+max-width: 1300px;
 
 }
 
 h1 {
+    max-width: 700px;
+    margin: auto;
     text-align: center;
     font-size: 50px;
     color: #ffffff;
+    border-bottom-color: #b5302d;
+    border-bottom-style: double;
+    border-bottom-width: 10px;
 }
 
-#virst {
+h2 {
+    font-size: 38px;
+    vertical-align: middle;
+    display: inline;
+}
+
+#virsr {
     background-color: #ad8f5f;
     color: #fffbe0;
-    border-bottom: #b5302d 3px dotted;
 }
 
 #yike {
     text-align: right;
     color: #fffbe0;
+    border: 5px black none;
+    padding: 10px;
 }
+
+.pic {
+    float: left;
+    margin-right: 200px;
+    margin-bottom: 30px;
+    margin-top: 15px;
+    max-width: 450px;
+    
+}
+
+bilde3d, bilde1 {
+    color: white;
+    font-size: 30px;
+        
+}
+
+.overflow {
+    overflow: auto;
+    border: 5px black none;
+    padding: 10px;
+    
+}
+
