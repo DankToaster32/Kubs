@@ -1,0 +1,23 @@
+body {
+    background: rgb(83,34,195);
+background: linear-gradient(0deg, rgba(83,34,195,1) 
+    0%, 
+    rgba(253,187,45,1) 100%);
+}
+
+h1 {
+    text-align: center;
+    font-size: 50px;
+    color: #ffffff;
+}
+
+#virst {
+    background-color: #ad8f5f;
+    color: #fffbe0;
+    border-bottom: #b5302d thin dotted;
+}
+
+#yike {
+    text-align: right;
+    color: #fffbe0;
+}
