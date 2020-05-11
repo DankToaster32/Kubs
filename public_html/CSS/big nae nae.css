@@ -61,3 +61,11 @@ bilde3d, bilde1 {
     
 }
 
+a.hyperl:link, a.hyperl:visited {
+  background-color: #a30047;
+  color: lightgoldenrodyellow;
+  padding: 14px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
