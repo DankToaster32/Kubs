@@ -9,7 +9,6 @@ font-family: "Comic Sans MS";
 max-width: 1300px;
 
 }
-
 h1 {
     max-width: 700px;
     margin: auto;
@@ -20,26 +19,22 @@ h1 {
     border-bottom-style: double;
     border-bottom-width: 10px;
 }
-
 h2 {
     font-size: 38px;
     vertical-align: middle;
     display: inline;
     margin-bottom: 3px;
 }
-
 #virsr {
     background-color: #ad8f5f;
     color: #fffbe0;
 }
-
 #yike {
     text-align: right;
     color: #fffbe0;
     border: 5px black none;
     padding: 10px;
 }
-
 .pic {
     float: left;
     margin-right: 200px;
@@ -48,20 +43,17 @@ h2 {
     max-width: 450px;
     
 }
-
 bilde3d, bilde1 {
     color: white;
     font-size: 30px;
         
 }
-
 .overflow {
     overflow: auto;
     border: 5px black none;
     padding: 10px;
     
 }
-
 a.hyperl:link, a.hyperl:visited {
   background-color: #a30047;
   color: lightgoldenrodyellow;
@@ -74,7 +66,6 @@ a.hyperl:link, a.hyperl:visited {
   height: 50px;
 
 }
-
 a.hyperl:hover, a.hyperl:active {
     background-color: lawngreen;
     color: deeppink;
@@ -82,11 +73,20 @@ a.hyperl:hover, a.hyperl:active {
     width: 200px;
     height: 50px;
 }
-
 .showcase {
     align-content: center;
     max-height: 460px;
     max-width: 500px;
     margin: auto;
     padding: 10px 10px;
+}
+.piezime {
+     font-size: 33px;
+    margin-bottom: 3px;
+    font-family: "Georgia Pro";
+    max-width: 1000px;
+    margin: auto;
+    text-align: center;
+    border-bottom-style: groove;
+    border-bottom-width: 3px;
 }
