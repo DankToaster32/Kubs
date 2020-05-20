@@ -90,3 +90,24 @@ a.hyperl:hover, a.hyperl:active {
     border-bottom-style: groove;
     border-bottom-width: 3px;
 }
+button.podzina:link, button.podzina:visited, button.podzina:enabled {
+  background-color: #a30047;
+  color: lightgoldenrodyellow;
+  padding: 14px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  border: 2px red none;
+  width: 200px;
+  height: 50px;
+}
+button.podzina:hover, button.podzina:active, button.podzina:after {
+    background-color: lawngreen;
+    color: deeppink;
+    border: 2px red solid;
+    width: 200px;
+    height: 50px;
+}
+.clicc {
+    border-bottom-style: none;
+}
